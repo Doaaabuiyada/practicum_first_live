@@ -9,3 +9,5 @@ View it [here](http://near-drink.surge.sh/)!
 @Isabelle Cuisset was here!
 
 Francisco Seco
+
+Joe Lott was also here!
