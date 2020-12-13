@@ -15,3 +15,5 @@ Visit [CONTRIBUTING](/CONTRIBUTING.md)
 Francisco Seco
 
 Joe Lott was also here!
+
+Myoung Bae testing git.
